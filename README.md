@@ -1,2 +1,4 @@
 # SCMS
-I am Created That Project As a Class Project.
+I Created That Project As a Class Project.
+
+Languages Used inside this Software are Python And MySQL>
